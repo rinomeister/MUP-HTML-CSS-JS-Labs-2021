@@ -1,0 +1,11 @@
+Potrebno je definirati sljedeće:
+
+1.Kreirati niz korištenjem niza niz = [10,20,30,40,50,60,70,80,90,100]; gdje će svaki element novog niza biti umnožak elementa postojećeg niza sa nekom zaokruženom random vrijednošću do 10. Potrebno je u novi niz izdvojiti brojeve između 20 i 200 te izračunati i ispisati zbroj tih brojeva u konzoli. Također, potrebno je na stranici ispisati elemente novog niza sa pripadnim zbrojem u obliku elemenata liste kao što je prikazano na slici. Koristiti metode niza map, filter, reduce, join, ES6 string... Ne koristiti petlje. Primjer ispisa:
+
+
+
+2. Kreirati string "cascading style sheets" te izdvojiti prva slova svih riječi i pretvoriti ih u velika slova kako bi se dobila kratica CSS. Dobivenu kraticu dodati na kraj stringa unutar zagrada, odnosno "cascading style sheets (CSS)". Koristiti metode stringa split, toUpperCase, + ...
+
+3. Napisati regularni izraz koji prepoznaje heksadecimalni zapis postavljene boje (primjeri ispravnih zapisa su #aae31c, #abc, a neispravnih #aa, ztr, #12aaoo).
+
+4. Napisati regularni izraz koji će testirati da li mail odgovara slijedećem uzorku ime_posiljatelja@nesto.com, odnosno prije znaka @ dozvoljena su samo mala slova i znak _, a poslije znaka @ samo slova, te se može pojaviti primjerice "nesto.com", ali ne i "nesto.nesto.com", a iza točke dozvoljena su 2 do 3 znaka (.hr, .edu, .gov i slično). Primjeri ispravnih zapisa su ime_prezime@nesto.com, imeprezime@nesto.hr, a neispravnih ime@nesto2.com, imeprezime@nesto.nesto.hr.

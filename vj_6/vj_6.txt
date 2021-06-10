@@ -1,0 +1,7 @@
+Unutar jedne web stranice potrebno je definirati sljedeće:
+
+Definirati naslov JS lab 1 i tekst ispod "Otvoriti prozor Console (F12)"
+Potrebno je omogućiti korisniku da unese broj prema želji. Kreirati uvjetnu struturu if-else if-else koja će ispitati da li je broj koji je korisnik upisao 0, odnosno ako nije napisati da je manji od 0 i obratno te definirati istu takvu strukturu korištenjem ternarnog operatora ?. Ispisati pripadne rezultate korištenjem console.log().
+Kreirati switch strukturu prema želji sa više caseova i default opcijom. Ispisati pripadne rezultate korištenjem console.log(). 
+Korištenjem petlje while ispisati parne brojeve između 5 i 25. Ispisati pripadne rezultate korištenjem console.log(). 
+Korištenjem petlje for ispisati brojeve između 0 i 180 koji su djeljivi sa 50 i na kraju je potrebno ispisati njihov zbroj. Ispisati pripadne rezultate korištenjem console.log(). 

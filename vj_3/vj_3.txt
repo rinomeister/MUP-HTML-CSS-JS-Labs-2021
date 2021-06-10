@@ -1,0 +1,7 @@
+Izradite web stranicu ili nadogradite postojeću prema sljedećim smjernicama:
+
+Izradite i oblikujte tablicu unutar koje ćete prikazati dnevni raspored aktivnosti (korištenje rowspan/colspan)
+Primijenite uporabu barem 2 kombinatora
+Primijenite uporabu barem jednog selektora atributa
+Oblikujte izgled jednog ili više linkova primjenom pseudoklasa
+CSS treba biti definiran ili unutar zaglavlja html dokumenta ili sa vanjskom datotekom

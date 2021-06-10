@@ -1,0 +1,15 @@
+Izradite web stranicu korištenjem flexboxa prema sljedećim smjernicama:
+
+Oblikovati stranicu sa barem tri standardna područja (header, sadržaj i footer)
+Definirati i oblikovati navigacijski izbornik stranice
+Stavke navigacije bi trebale eventualno pokazivati na određena područja unutar trenutne stranice i/ili na dosadašnje lab vježbe ili eventualno ostavite prazan link (<a href="#"> )
+Koristiti nenumeriranu listu
+Kod prelaska mišem preko stavke navigacije, promjeniti stil (primjerice boju pozadine i boju teksta)
+Na stranici ispod navigacije prikazati neki običan tekst (može i lorem ipsum) 
+Definirajte strukturu direktorija vježbe na sljedeći način:
+
+index.html (glavna web stranica)
+style.css (glavna stilska datoteka)
+direktorij slike (ukoliko imate više slika)
+ostale datoteke mogu isto biti smještene u korijenskom (root) direktoriju (osim ako ih ima jako dosta pa ih je bolje kategorizirati u dodatne direktorije)
+CSS treba biti definiran sa vanjskom datotekom

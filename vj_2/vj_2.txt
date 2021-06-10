@@ -1,0 +1,8 @@
+Izradite web stranicu prema sljedećim smjernicama:
+
+Urediti tekst korištenjem css svojstva font i text 
+Definirati podlogu web stranice/ili dijela web stranice
+Stranica bi trebala sadržavati popis vaših položenih kolegija (html liste/nabrajanja), razvrstanih prema godini studija i prema semestru (zimski/ljetni)
+Stavke trenutnog semestra prikazati sa bojom prema želji definiranu sa RGB zapisom
+Barem jednom koristiti atribute class i id
+Na Moodle predati zip datoteku cijelog direktorija naziva PrezimeIme_lab2.zip

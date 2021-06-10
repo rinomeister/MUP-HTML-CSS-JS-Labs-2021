@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Treca lab vjezba">
+    <meta name="keywords" content="HTML,CSS,Javascript">
+    <meta name="author" content="Rino Zupa">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Treca lab vjezba</title>
+  <style>
+      .center {
+    margin-left: auto;
+    margin-right: auto;
+    }
+      #raspored caption{
+    color:white;
+    font-weight:bold;
+    font-size:1.5em;
+    }
+#raspored th{
+    background-color:lightslategray;
+    color:white;
+    }
+#raspored, th, td{
+    border:1px solid white;
+    border-spacing: 6px;    
+    border-collapse:collapse;
+    text-align:center;
+    }
+    table > tbody > tr > td {
+			color: whitesmoke;
+		}
+    table > tbody > tr > td[rowspan] {
+			color: blue;
+		}
+    body > a{
+        color: white;
+    }
+    body > a:focus{
+        color: teal;
+    }
+    </style>
+  </head>
+  <body style="background-color: rgb(157, 79, 177);">
+    <table class = "center" id="raspored">
+        <caption>Raspored aktivnosti</caption>
+        <tr>
+         <th>Sati</th>
+         <th>Danasnji dan</th>
+        </tr>
+        <tr>
+         <td>8:15-09:00</td>
+         <td rowspan="2">Faks</td>
+        </tr>
+        <tr>
+         <td>9:15-10:00</td>
+        </tr>
+        <tr>
+         <td>10:15-11:00</td>
+         <td>Odmor</td>
+        </tr>
+        <tr>
+         <td>11:15-12:00</td>
+         <td>Priprema za odlazak na posao</td>
+        </tr>
+        <tr>
+         <td>12:15-13:00</td>
+         <td rowspan="4">Posao</td>
+        </tr>
+        <tr>
+         <td>13:15-14:00</td>
+        </tr>
+        <tr>
+         <td>14:15-15:00</td>
+        </tr>
+        <tr>
+         <td>15:15-16:00</td>
+        </tr>
+        <tr>
+         <td>16:15-17:00</td>
+         <td>Odlazak kuci</td>
+        </tr>
+    </table>
+    <a href="https://www.oss.unist.hr/" target="_blank">Stranica odjela</a>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+Unutar jedne web stranice potrebno je definirati sljedeće:
+
+Definirati funkciju koja ispisuje sve poslane argumente. Koristiti ili arguments ili rest. 
+Definirati funkciju koja za dva broja, računa njihov zbroj i umnožak. Zbroj i umnožak su povratne vrijednosti funkcije koje je potrebno ispisati.
+Napisati program gdje korisnik unosi željenu operaciju (+ - * /) i dva broja. Rezultat se dobiva uz pomoć anonimnih callback funkcija. Ispisati rezultat.

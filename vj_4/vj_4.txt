@@ -1,0 +1,7 @@
+Izradite web stranicu prema sljedećim smjernicama:
+
+Osmisliti i definirati formu koja će predstavljati anketu korisnika sa barem 5 pitanja o temi po želji (putovanja/moda/fitness/gadgeti i sl)
+Forma treba obuhvaćati barem 6 različitih vrsta elemenata forme (tekst, padajući izbornik, datum, radio/checkbox opcije, botun i sl)
+Koristiti i atribute placeholder, required i sl
+Oblikovati izgled forme
+CSS treba biti definiran ili unutar zaglavlja html dokumenta ili sa vanjskom datotekom

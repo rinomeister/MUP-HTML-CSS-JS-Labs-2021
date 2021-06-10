@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:#24252A;
+}
+body{
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+	
+}
+li,a,button{
+    font-family: "Karantina", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30 px 10%;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.nav-links{
+    list-style: none;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    padding: 0px 20 px;
+
+    
+}
+
+.nav-links li a{
+    transition: all 0.3s ease 0s;
+    padding: 1rem;
+}
+
+.nav-links li a:hover{
+    color: blue;
+}
+
+button{
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+#sadrzaj{
+	
+	display:flex;
+	justify-content:space-above;
+	flex:1;
+	
+}
+
+
+.main-slika {
+    height:100%;
+   width: 50%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;*/    
+}
+.opis{
+    font-family: "Karantina", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	margin:0 auto;
+	
+  /*  float: right;
+    position: relative;
+    right: 350px;
+    top: -250px;
+    left: -170px;*/
+}
+
+
+.footer{
+    /* height: auto;*/
+    background-color: black;
+    color: white;
+	padding: 40px;
+    margin:0;
+    padding-top: 55px;
+    margin-top: 2em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+	display:flex;
+	justify-content:center;
+	align-items:center;	
+   
+}
+h1{
+   /* text-align: center;*/
+    font-size: 12px;
+   /* position: relative;
+    left: 170px;*/
+    background-color: black;
+}

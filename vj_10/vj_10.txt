@@ -1,0 +1,1 @@
+Nadogradite laboratorijsku vježbu "Lab vj. HTML/CSS - 4" sa skriptom koja će ispisivati na stranici upisane podatke u formu. Koristiti addEventListenere te koristiti barem jedanput svaku od sljedećih metoda: getElementById, getElementsByTagName ili getElementsByClassName, querySelector ili querySelectorAll.

@@ -1,0 +1,16 @@
+Izradite web stranicu prema sljedećim smjernicama:
+
+Web stranica bi trebala biti oblikovana prema HTML5 specifikaciji.
+Definirati zaglavlje html dokumenta sa pripadnim meta podacima, naslovom te kodnom stranicom.
+Oblikovati tekst korištenjem oznaka i atributa za:
+oblikovanje naslova, odlomka, novog reda
+oblikovanje posebnih dijelova teksta (primjerice copyright)
+dodati dva linka gdje je prvi obični link na vanjsku web stranicu, a drugi link omogućuje da se korisnik klikom na sliku prebaci na drugi dio iste web stranice.
+Na Moodle predati html datoteku naziva PrezimeIme_htmlcss1.html
+Tekst koji se koristi za vježbu je slijedeći:
+
+World Wide Web
+
+World Wide Web (skraćeno WWW, W3, ili samo Web, naziv dolazi iz engleskog jezika a može se prevesti kao 'svjetska mreža'; u engleskom riječ web ima značenje razgranate i isprepletene mreže poput paučine) je jedna od najkorištenijih usluga Interneta koja omogućava dohvaćanje hipertekstualnih dokumenata. Dokumenti mogu sadržavati tekst, slike i multimedijalne sadržaje a međusobno su povezani linkovima. Za dohvaćanje i prikaz sadržaja koriste se računalni programi koji se nazivaju web-preglednici. Web se često pogrešno koristi kao sinonim za Internet, a zapravo predstavlja jednu uslugu kojom se ostvaruje razmjena podataka preko te svjetske računalne mreže. Svjetska mreža je međunarodna mreža računalnih baza podataka koja koristi internet i njegov poseban sustav za povezivanje informacija. Odmah po nastajanju, a danas više nego tada, svjetska mreža bila je nepregledno more sa informacija koje teku, koje se mijenjaju i po obliku i po sadržaju. Nijedan servis internet nije uspio da preuzme i u potpunosti odredi novi medij kao što je to uspjelo mrežnom servisu interneta. Slobodna razmjena ideja i informacija bila je osnovni postulat širenja mreže, ali i njegova poticajna formula razvoja. Upravo je pojava i brzina primjene mrežne tehnologije potvrdila masovnu društvenu potrebu za novim oblikom razmjene informacija, ali i omogućila bolje razumijevanje nove medijske tehnologije interneta. Povijesni web logotip dizajnirao je Robert Cailliau. Projekt kojim je počeo razvoj Weba predložili su 1990. u CERN-u engleski inženjer i znanstvenik Tim Berners-Lee i belgijski znanstvenik Robert Cailliau.
+
+Copyright Wikipedia

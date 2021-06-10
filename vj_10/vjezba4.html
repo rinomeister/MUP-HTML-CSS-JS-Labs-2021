@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vjezba 4 Lab</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Posaljite vas upit!</h1>
+    <form>
+    <div class="botun">
+        <p>Ime i prezime</p><input type="text" title="Ime i prezime" placeholder="Upisite ime i prezime!" id="ime" required>
+        <p>Datum Rodenja</p><input type="date" id="datum" >
+        <p>Kontakt broj</p><input type="tel" id="broj" placeholder="(000) 000-000"pattern="{\([2-9][0-9]{2}\) [0-9]{3}-[0-9]{3}">
+        <p>Email</p><input type="email" id="mail" title="Email" placeholder="Upisite email adresu!" required>
+        <p>Odaberite spol</p><input class="spol" type="radio" name="Spol" value="Musko">
+        <label for="Musko">Muski</label>
+        <input type="radio" name="Spol" value="Zensko">
+        <label for="Zensko">Zenski</label>
+        </br>
+        </br>
+        <datalist id="odabir gadgeta">
+            <option label="Robo usisavac">Robo usisavac</option>
+            <option label="Smartwatch">Smartwatch</option>
+            <option label="Smart Chromecast">Smart Chromecast</option>
+            <option label="Air purifier">Air purifier</option>
+           </datalist>
+           Gadget:
+           <input type="text" name="gadget" id="gadgetic" placeholder="Upišite gadget koji zelite" list="odabir gadgeta"/>
+        </br>
+        </br>
+        <button type="button" id="posalji">Posalji</button>
+    </div>
+    </form>
+    <div id="ispis">
+    </div>
+<script src="skripta.js"></script>
+</body>
+</html>
