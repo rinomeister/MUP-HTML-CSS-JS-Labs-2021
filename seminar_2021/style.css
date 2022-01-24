@@ -7,7 +7,7 @@
 .pozadina{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/img/background.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/background.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -84,16 +84,16 @@ button{
     transition: transform 0.5s;
 }
 .karta1{
-    background-image: url(/img/lagoon.png);
+    background-image: url(img/lagoon.png);
 }
 .karta2{
-    background-image: url(/img/cave.jpg);
+    background-image: url(img/cave.jpg);
 }
 .karta3{
-    background-image: url(/img/submarine.jpg);
+    background-image: url(img/submarine.jpg);
 }
 .karta4{
-    background-image: url(/img/private.png);
+    background-image: url(img/private.png);
 }
 
 .karta:hover{
